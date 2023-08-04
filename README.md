@@ -1,2 +1,27 @@
-# is-php-dead
-We understand that many people are ever so confused about the vital signs of a language, that still runs over half the web. So we built a website and API to help people out. These JSON files power these, most advanced and innovative of tools. 
+# Is PHP Dead? 
+
+No. PHP is obviously not dead. However this is a source of confusion for many people. As dilligent citizens, we decided to build some highly innovative and sophisticated tools to help. 
+
+## isphpdead.io
+
+Web interface to make your chortle and giggle with delight
+
+[https://isphpdead.io/](https://isphpdead.io/)
+
+
+## API
+
+Ingest this most precious of data sets on the following endpoints...
+
+[https://api.isphpdead.io/status](https://api.isphpdead.io/status)
+[https://api.isphpdead.io/loading-message](https://api.isphpdead.io/loading-message)
+
+Each endpoint returns a random answer, based upon the JSON files in this repo. 
+
+## HOW DO I CONTRIBUTE?!? 
+
+HARK! Hear the battle cry. 
+
+Please submit answers, and loading mesages (to be displayed when searching for the answers).
+
+Or better still, use the data to build a fun tool.
