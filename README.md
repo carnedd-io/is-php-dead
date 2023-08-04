@@ -13,11 +13,16 @@ Web interface to make your chortle and giggle with delight
 
 Ingest this most precious of data sets on the following endpoints...
 
-[https://api.isphpdead.io/status](https://api.isphpdead.io/status)
+[https://api.isphpdead.io/random-status](https://api.isphpdead.io/random-status)
 
-[https://api.isphpdead.io/loading-message](https://api.isphpdead.io/loading-message)
+[https://api.isphpdead.io/random-loading-message](https://api.isphpdead.io/random-loading-message)
+
+[https://api.isphpdead.io/all-loading-messages](https://api.isphpdead.io/all-loading-messages)
+
+[https://api.isphpdead.io/all-statuses](https://api.isphpdead.io/all-statuses)
 
 Each endpoint returns a random answer, based upon the JSON files in this repo. 
+
 
 ## HOW DO I CONTRIBUTE?!? 
 
